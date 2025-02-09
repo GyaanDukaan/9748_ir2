@@ -1,0 +1,25 @@
+ICICIBANK: {lotSize: 10, price: 2} 
+LT: {lotSize: 10, price: 2} 
+SBIN: {lotSize: 10, price: 2} 
+INFY: {lotSize: 10, price: 2} 
+HINDUNILVR: {lotSize: 10, price: 2} 
+TCS: {lotSize: 10, price: 2} 
+HDFCBANK: {lotSize: 15, price: 4} {lotSize: 10, price: 2} 
+BAJFINANCE: {lotSize: 10, price: 2} 
+RELIANCE: {lotSize: 10, price: 2} 
+NESTLEIND: {lotSize: 30, price: 2} 
+Removed orders for symbol NESTLEIND
+ICICIBANK: {lotSize: 10, price: 2} 
+LT: {lotSize: 10, price: 2} 
+SBIN: {lotSize: 10, price: 2} 
+INFY: {lotSize: 10, price: 2} 
+HINDUNILVR: {lotSize: 10, price: 2} 
+TCS: {lotSize: 10, price: 2} 
+HDFCBANK: {lotSize: 15, price: 4} {lotSize: 10, price: 2} 
+BAJFINANCE: {lotSize: 10, price: 2} 
+RELIANCE: {lotSize: 10, price: 2} 
+Error: Symbol NONEXISTENT not found for removal.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
